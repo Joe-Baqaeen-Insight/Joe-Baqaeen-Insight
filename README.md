@@ -55,23 +55,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joe-Baqaeen-Insight&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joe-Baqaeen-Insight&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Joe-Baqaeen-Insight&theme=github-dark-blue&hide_border=true)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
