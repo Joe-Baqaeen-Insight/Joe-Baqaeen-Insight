@@ -14,7 +14,7 @@
 - 🌱 I'm currently learning **Cloud Architecture & DevOps**
 - 👯 I'm looking to collaborate on **innovative web applications**
 - 💬 Ask me about **JavaScript, TypeScript, React, Node.js**
-- 📫 How to reach me: **[GitHub Issues](https://github.com/JoeInsight)**
+- 📫 How to reach me: **[GitHub Issues](https://github.com/Joe-Baqaeen-Insight)**
 - ⚡ Fun fact: I love exploring new technologies and solving complex problems
 
 ---
@@ -43,14 +43,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoeInsight&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeInsight&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joe-Baqaeen-Insight&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joe-Baqaeen-Insight&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=JoeInsight&theme=github-dark-blue&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Joe-Baqaeen-Insight&theme=github-dark-blue&hide_border=true)
 
 </div>
 
@@ -60,7 +60,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JoeInsight&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Joe-Baqaeen-Insight&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-[![Joe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoeInsight&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Joe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Joe-Baqaeen-Insight&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -80,7 +80,7 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoeInsight)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joe-Baqaeen-Insight)
 
 </div>
 
@@ -88,7 +88,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=JoeInsight&color=58A6FF&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Joe-Baqaeen-Insight&color=58A6FF&style=flat-square&label=Profile+Views)
 
 *Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate.* 🚀
 
