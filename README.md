@@ -59,8 +59,8 @@
 
 <div align="center">
 
-<img src="assets/github-stats.svg" alt="GitHub Stats" />
-<img src="assets/top-languages.svg" alt="Top Languages" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joe-Baqaeen-Insight&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joe-Baqaeen-Insight&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
